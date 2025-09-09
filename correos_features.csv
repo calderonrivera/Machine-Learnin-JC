@@ -1,0 +1,1001 @@
+remitente,asunto,longitud,num_palabras,tiene_link,tiene_dinero,tiene_premio,tiene_saludo,mayusculas_ratio,signos_exclamacion,num_adjuntos,es_largo
+usuario0@mail.com,Aviso de seguridad,373,52,1,1,0,0,0.13,9,3,1
+usuario1@mail.com,Oferta especial,443,40,1,0,1,1,0.34,2,1,0
+usuario2@mail.com,Actualización de cuenta,396,96,1,0,0,1,0.55,7,2,1
+usuario3@mail.com,Aviso de seguridad,284,25,1,1,1,1,0.99,4,1,0
+usuario4@mail.com,Promoción exclusiva,488,84,0,1,0,0,0.96,5,0,1
+usuario5@mail.com,Reunión mañana,448,11,0,0,1,0,0.4,9,0,0
+usuario6@mail.com,Información importante,269,25,0,0,0,0,0.91,5,1,0
+usuario7@mail.com,Aviso de seguridad,280,26,0,0,1,1,0.19,8,0,0
+usuario8@mail.com,Promoción exclusiva,398,93,0,1,0,1,0.54,2,1,1
+usuario9@mail.com,Actualización de cuenta,417,86,0,0,1,1,0.58,10,1,1
+usuario10@mail.com,Factura pendiente,22,6,0,1,0,0,0.73,6,2,0
+usuario11@mail.com,Promoción exclusiva,168,5,1,1,1,1,0.3,2,0,0
+usuario12@mail.com,Factura pendiente,262,73,0,0,0,0,0.39,0,1,1
+usuario13@mail.com,Reunión mañana,247,87,1,1,1,1,0.73,4,1,1
+usuario14@mail.com,Actualización de cuenta,418,45,0,0,1,0,0.77,10,1,0
+usuario15@mail.com,Factura pendiente,424,41,1,0,1,0,0.89,10,0,0
+usuario16@mail.com,Aviso de seguridad,55,36,1,1,0,1,0.65,3,3,0
+usuario17@mail.com,Reunión mañana,363,32,1,0,0,1,0.73,4,3,0
+usuario18@mail.com,Factura pendiente,387,81,1,1,1,0,0.15,7,1,1
+usuario19@mail.com,Actualización de cuenta,475,67,0,0,0,0,0.33,0,3,1
+usuario20@mail.com,Actualización de cuenta,204,26,0,1,1,1,0.49,7,2,0
+usuario21@mail.com,Recordatorio de cita,241,60,1,0,1,1,0.03,10,1,1
+usuario22@mail.com,Saludos cordiales,389,72,1,1,0,1,0.29,5,0,1
+usuario23@mail.com,Oferta especial,82,69,0,0,1,0,0.96,5,3,1
+usuario24@mail.com,Factura pendiente,35,25,0,1,0,1,0.39,10,2,0
+usuario25@mail.com,Novedades del mes,60,39,1,1,1,1,0.05,0,2,0
+usuario26@mail.com,Factura pendiente,174,78,0,1,1,1,0.71,3,3,1
+usuario27@mail.com,Factura pendiente,196,54,0,1,0,0,0.61,8,1,1
+usuario28@mail.com,Reunión mañana,212,35,0,0,0,0,0.93,2,0,0
+usuario29@mail.com,Factura pendiente,280,7,1,0,0,0,0.11,7,2,0
+usuario30@mail.com,Oferta especial,341,88,0,1,0,0,0.2,2,0,1
+usuario31@mail.com,Promoción exclusiva,382,11,1,1,1,0,0.76,6,0,0
+usuario32@mail.com,Oferta especial,47,58,0,0,1,1,0.66,4,2,1
+usuario33@mail.com,Actualización de cuenta,460,21,1,1,0,1,0.58,2,1,0
+usuario34@mail.com,Actualización de cuenta,432,68,0,0,1,1,0.34,1,2,1
+usuario35@mail.com,Aviso de seguridad,414,82,1,0,1,1,0.89,0,2,1
+usuario36@mail.com,Actualización de cuenta,171,48,1,0,0,0,0.1,0,2,0
+usuario37@mail.com,Aviso de seguridad,423,20,0,0,0,1,0.38,1,1,0
+usuario38@mail.com,Promoción exclusiva,94,74,1,0,0,0,0.17,3,3,1
+usuario39@mail.com,Oferta especial,115,85,1,0,1,0,0.78,2,2,1
+usuario40@mail.com,Información importante,94,21,0,0,0,1,0.96,9,0,0
+usuario41@mail.com,Factura pendiente,447,50,0,0,1,1,0.28,8,3,0
+usuario42@mail.com,Aviso de seguridad,105,57,0,1,1,0,0.64,1,1,1
+usuario43@mail.com,Información importante,400,10,0,0,1,1,0.5,7,1,0
+usuario44@mail.com,Saludos cordiales,92,7,0,1,1,1,0.91,7,1,0
+usuario45@mail.com,Reunión mañana,77,60,0,0,1,0,0.48,2,0,1
+usuario46@mail.com,Actualización de cuenta,361,58,0,1,1,1,0.4,1,1,1
+usuario47@mail.com,Recordatorio de cita,347,64,0,1,0,1,0.37,5,1,1
+usuario48@mail.com,Promoción exclusiva,212,24,0,1,0,1,0.24,3,3,0
+usuario49@mail.com,Aviso de seguridad,178,9,1,1,1,1,0.53,7,1,0
+usuario50@mail.com,Saludos cordiales,103,78,0,1,0,1,0.01,9,2,1
+usuario51@mail.com,Actualización de cuenta,352,11,1,1,0,1,0.78,8,2,0
+usuario52@mail.com,Novedades del mes,38,9,0,0,0,0,0.0,7,2,0
+usuario53@mail.com,Novedades del mes,260,51,0,1,1,1,0.03,6,1,1
+usuario54@mail.com,Información importante,423,18,0,1,0,1,0.82,3,3,0
+usuario55@mail.com,Recordatorio de cita,213,47,0,0,1,1,0.09,1,2,0
+usuario56@mail.com,Novedades del mes,326,85,0,1,0,1,0.92,5,3,1
+usuario57@mail.com,Información importante,112,22,1,0,1,1,0.99,7,3,0
+usuario58@mail.com,Aviso de seguridad,146,26,0,1,0,0,0.46,7,1,0
+usuario59@mail.com,Aviso de seguridad,461,45,0,1,0,0,0.24,8,0,0
+usuario60@mail.com,Aviso de seguridad,431,39,1,0,1,0,0.18,7,1,0
+usuario61@mail.com,Promoción exclusiva,342,73,0,1,0,0,0.4,7,0,1
+usuario62@mail.com,Factura pendiente,351,13,0,0,1,0,0.51,3,0,0
+usuario63@mail.com,Promoción exclusiva,401,92,0,1,0,1,0.58,0,2,1
+usuario64@mail.com,Novedades del mes,165,63,1,1,0,0,0.91,8,2,1
+usuario65@mail.com,Novedades del mes,400,47,1,1,1,0,0.16,8,3,0
+usuario66@mail.com,Oferta especial,148,21,0,1,0,1,0.09,3,3,0
+usuario67@mail.com,Novedades del mes,88,83,0,1,0,1,0.33,1,1,1
+usuario68@mail.com,Reunión mañana,350,77,1,1,1,0,0.38,1,2,1
+usuario69@mail.com,Actualización de cuenta,197,42,1,0,0,1,0.52,1,2,0
+usuario70@mail.com,Recordatorio de cita,164,47,1,1,1,0,0.85,4,0,0
+usuario71@mail.com,Novedades del mes,88,38,0,0,0,0,0.93,5,1,0
+usuario72@mail.com,Actualización de cuenta,285,69,0,0,1,0,0.5,0,1,1
+usuario73@mail.com,Factura pendiente,133,82,1,1,0,1,0.38,3,1,1
+usuario74@mail.com,Factura pendiente,185,49,0,0,0,1,0.23,7,0,0
+usuario75@mail.com,Recordatorio de cita,488,23,1,0,1,1,0.87,10,1,0
+usuario76@mail.com,Oferta especial,434,29,0,1,0,1,0.88,5,0,0
+usuario77@mail.com,Promoción exclusiva,466,61,0,0,0,0,0.65,0,2,1
+usuario78@mail.com,Novedades del mes,174,47,0,1,0,1,0.04,4,3,0
+usuario79@mail.com,Reunión mañana,390,53,1,0,0,0,0.87,9,2,1
+usuario80@mail.com,Actualización de cuenta,76,98,0,1,0,1,0.94,8,0,1
+usuario81@mail.com,Factura pendiente,388,11,1,1,0,1,0.68,8,3,0
+usuario82@mail.com,Oferta especial,297,67,0,0,0,1,0.6,9,3,1
+usuario83@mail.com,Saludos cordiales,275,47,0,0,0,0,0.47,1,2,0
+usuario84@mail.com,Oferta especial,154,71,0,1,1,1,0.48,3,2,1
+usuario85@mail.com,Recordatorio de cita,431,75,1,1,1,1,0.1,5,1,1
+usuario86@mail.com,Aviso de seguridad,129,64,1,0,1,0,0.42,5,3,1
+usuario87@mail.com,Promoción exclusiva,316,28,0,0,1,0,0.97,5,1,0
+usuario88@mail.com,Aviso de seguridad,90,95,0,1,1,0,0.39,7,0,1
+usuario89@mail.com,Promoción exclusiva,136,52,1,0,0,0,0.96,5,2,1
+usuario90@mail.com,Novedades del mes,464,82,1,1,1,0,0.74,6,1,1
+usuario91@mail.com,Reunión mañana,49,88,0,0,1,0,0.11,7,2,1
+usuario92@mail.com,Aviso de seguridad,30,93,1,1,1,1,0.57,10,2,1
+usuario93@mail.com,Oferta especial,66,51,0,0,0,0,0.62,10,1,1
+usuario94@mail.com,Oferta especial,77,72,1,0,0,1,0.48,2,3,1
+usuario95@mail.com,Información importante,473,41,0,1,0,1,0.85,7,1,0
+usuario96@mail.com,Oferta especial,174,72,0,1,1,1,0.5,2,0,1
+usuario97@mail.com,Actualización de cuenta,413,36,1,1,0,0,0.98,1,1,0
+usuario98@mail.com,Aviso de seguridad,82,45,1,0,1,1,0.17,0,1,0
+usuario99@mail.com,Aviso de seguridad,434,85,0,0,1,0,0.2,4,0,1
+usuario100@mail.com,Actualización de cuenta,88,72,1,0,0,0,0.16,3,3,1
+usuario101@mail.com,Factura pendiente,62,66,0,0,0,0,0.08,0,1,1
+usuario102@mail.com,Promoción exclusiva,325,48,1,1,1,0,0.47,3,2,0
+usuario103@mail.com,Recordatorio de cita,401,22,0,1,1,1,0.6,10,0,0
+usuario104@mail.com,Recordatorio de cita,143,27,1,1,0,1,0.11,7,1,0
+usuario105@mail.com,Novedades del mes,121,100,1,1,1,1,0.49,3,0,1
+usuario106@mail.com,Información importante,193,30,1,0,1,1,0.13,1,1,0
+usuario107@mail.com,Información importante,77,25,1,1,1,0,0.26,5,1,0
+usuario108@mail.com,Promoción exclusiva,156,23,1,0,1,1,0.57,1,0,0
+usuario109@mail.com,Reunión mañana,91,53,0,0,0,0,0.35,5,1,1
+usuario110@mail.com,Factura pendiente,127,37,1,1,1,1,0.36,7,2,0
+usuario111@mail.com,Información importante,293,82,0,0,1,0,0.05,3,2,1
+usuario112@mail.com,Recordatorio de cita,138,37,0,1,1,1,0.66,8,2,0
+usuario113@mail.com,Novedades del mes,91,67,0,1,1,1,0.09,10,3,1
+usuario114@mail.com,Factura pendiente,277,73,1,1,0,0,0.96,3,0,1
+usuario115@mail.com,Información importante,378,94,0,1,1,0,0.81,7,1,1
+usuario116@mail.com,Aviso de seguridad,124,24,1,1,1,0,0.74,0,2,0
+usuario117@mail.com,Reunión mañana,445,44,0,1,0,0,0.63,4,3,0
+usuario118@mail.com,Información importante,104,63,1,1,1,1,0.0,6,3,1
+usuario119@mail.com,Saludos cordiales,191,79,1,0,1,0,0.67,10,0,1
+usuario120@mail.com,Oferta especial,364,54,0,1,0,0,0.77,5,3,1
+usuario121@mail.com,Actualización de cuenta,322,46,1,1,0,0,0.14,4,3,0
+usuario122@mail.com,Reunión mañana,70,77,0,1,1,0,0.42,10,2,1
+usuario123@mail.com,Oferta especial,426,100,0,1,1,1,0.49,3,0,1
+usuario124@mail.com,Factura pendiente,151,83,0,0,1,0,0.92,8,2,1
+usuario125@mail.com,Recordatorio de cita,242,20,1,0,1,0,0.79,8,2,0
+usuario126@mail.com,Información importante,251,25,1,1,1,0,0.96,5,0,0
+usuario127@mail.com,Saludos cordiales,171,14,1,0,1,1,0.6,1,1,0
+usuario128@mail.com,Saludos cordiales,245,27,1,1,0,0,0.68,4,2,0
+usuario129@mail.com,Recordatorio de cita,497,77,1,1,0,0,0.59,10,3,1
+usuario130@mail.com,Promoción exclusiva,495,25,1,1,1,0,0.42,2,0,0
+usuario131@mail.com,Novedades del mes,473,48,1,1,0,0,0.42,0,1,0
+usuario132@mail.com,Oferta especial,477,67,1,0,0,0,0.47,0,0,1
+usuario133@mail.com,Actualización de cuenta,422,9,0,0,0,1,0.03,6,0,0
+usuario134@mail.com,Factura pendiente,96,98,0,0,1,1,0.65,10,0,1
+usuario135@mail.com,Aviso de seguridad,321,11,0,0,0,0,0.24,5,2,0
+usuario136@mail.com,Actualización de cuenta,194,11,1,1,0,0,0.63,3,1,0
+usuario137@mail.com,Recordatorio de cita,242,77,1,1,0,0,0.15,6,2,1
+usuario138@mail.com,Recordatorio de cita,266,69,1,0,1,1,0.63,3,3,1
+usuario139@mail.com,Novedades del mes,87,16,0,1,1,1,0.46,7,3,0
+usuario140@mail.com,Reunión mañana,145,56,0,0,0,0,0.39,9,2,1
+usuario141@mail.com,Recordatorio de cita,255,75,0,1,1,1,0.84,6,3,1
+usuario142@mail.com,Aviso de seguridad,160,89,0,1,1,0,0.93,6,3,1
+usuario143@mail.com,Reunión mañana,290,79,0,0,1,0,0.75,0,3,1
+usuario144@mail.com,Novedades del mes,87,53,1,1,0,1,0.42,0,3,1
+usuario145@mail.com,Promoción exclusiva,385,70,1,0,1,0,0.93,10,3,1
+usuario146@mail.com,Novedades del mes,268,33,0,0,0,1,0.91,6,2,0
+usuario147@mail.com,Promoción exclusiva,412,98,0,0,0,1,0.29,7,0,1
+usuario148@mail.com,Saludos cordiales,382,87,0,1,0,0,0.36,9,0,1
+usuario149@mail.com,Saludos cordiales,203,55,1,0,0,0,0.0,1,0,1
+usuario150@mail.com,Actualización de cuenta,142,57,1,0,1,0,0.38,5,2,1
+usuario151@mail.com,Aviso de seguridad,259,88,1,1,0,0,0.75,9,2,1
+usuario152@mail.com,Saludos cordiales,36,61,1,0,0,1,0.97,6,0,1
+usuario153@mail.com,Recordatorio de cita,37,82,1,0,1,1,0.24,3,0,1
+usuario154@mail.com,Aviso de seguridad,460,29,0,1,1,0,0.04,6,1,0
+usuario155@mail.com,Recordatorio de cita,430,55,1,0,0,0,0.93,3,3,1
+usuario156@mail.com,Saludos cordiales,192,17,1,1,0,1,0.16,4,3,0
+usuario157@mail.com,Novedades del mes,104,100,1,0,0,1,0.92,6,3,1
+usuario158@mail.com,Promoción exclusiva,238,5,0,1,1,0,0.42,6,1,0
+usuario159@mail.com,Actualización de cuenta,280,19,1,1,0,0,0.29,7,1,0
+usuario160@mail.com,Recordatorio de cita,278,50,0,1,1,0,0.17,9,3,0
+usuario161@mail.com,Actualización de cuenta,69,73,0,0,0,0,0.38,5,3,1
+usuario162@mail.com,Promoción exclusiva,311,21,1,0,0,0,0.01,9,1,0
+usuario163@mail.com,Factura pendiente,472,97,0,0,0,1,0.56,4,3,1
+usuario164@mail.com,Actualización de cuenta,328,19,1,1,1,0,0.22,10,0,0
+usuario165@mail.com,Reunión mañana,439,47,1,0,1,1,0.54,5,3,0
+usuario166@mail.com,Saludos cordiales,264,60,0,0,1,1,0.05,10,0,1
+usuario167@mail.com,Oferta especial,323,19,0,1,1,0,0.17,1,0,0
+usuario168@mail.com,Saludos cordiales,65,10,0,0,0,1,0.77,0,1,0
+usuario169@mail.com,Aviso de seguridad,419,95,0,0,0,1,0.79,6,0,1
+usuario170@mail.com,Aviso de seguridad,333,32,1,1,0,0,0.68,1,1,0
+usuario171@mail.com,Factura pendiente,120,29,0,1,1,1,0.29,8,2,0
+usuario172@mail.com,Información importante,85,90,0,1,1,0,0.27,4,2,1
+usuario173@mail.com,Promoción exclusiva,249,41,0,0,1,0,0.55,5,0,0
+usuario174@mail.com,Recordatorio de cita,97,53,0,1,0,1,0.19,2,0,1
+usuario175@mail.com,Saludos cordiales,463,69,1,0,1,1,0.92,1,0,1
+usuario176@mail.com,Reunión mañana,88,5,1,1,0,0,0.21,2,0,0
+usuario177@mail.com,Novedades del mes,304,72,1,0,0,1,0.75,7,2,1
+usuario178@mail.com,Saludos cordiales,459,35,0,1,0,1,0.39,7,3,0
+usuario179@mail.com,Aviso de seguridad,108,49,0,1,1,0,0.02,6,0,0
+usuario180@mail.com,Información importante,24,77,0,0,1,0,0.11,8,0,1
+usuario181@mail.com,Novedades del mes,106,96,0,0,0,0,0.06,0,2,1
+usuario182@mail.com,Promoción exclusiva,202,17,1,0,0,1,0.13,6,0,0
+usuario183@mail.com,Factura pendiente,497,39,0,1,0,1,0.43,5,0,0
+usuario184@mail.com,Información importante,346,48,1,1,0,0,0.28,3,1,0
+usuario185@mail.com,Recordatorio de cita,54,13,0,0,0,0,0.29,1,0,0
+usuario186@mail.com,Información importante,242,49,0,0,0,1,0.23,2,1,0
+usuario187@mail.com,Saludos cordiales,60,24,0,0,0,0,0.7,10,0,0
+usuario188@mail.com,Recordatorio de cita,435,28,0,1,1,1,0.53,4,0,0
+usuario189@mail.com,Reunión mañana,76,43,0,1,1,0,0.36,2,1,0
+usuario190@mail.com,Aviso de seguridad,499,93,1,1,0,1,0.43,10,3,1
+usuario191@mail.com,Reunión mañana,411,21,1,1,0,1,0.61,0,1,0
+usuario192@mail.com,Promoción exclusiva,248,42,0,1,0,1,0.62,5,3,0
+usuario193@mail.com,Información importante,279,6,0,0,0,0,0.2,3,0,0
+usuario194@mail.com,Actualización de cuenta,287,91,1,1,0,0,0.09,5,0,1
+usuario195@mail.com,Actualización de cuenta,158,42,0,0,0,0,0.23,1,2,0
+usuario196@mail.com,Promoción exclusiva,411,92,0,0,1,1,0.7,6,1,1
+usuario197@mail.com,Aviso de seguridad,347,62,0,1,1,1,0.19,8,3,1
+usuario198@mail.com,Saludos cordiales,334,28,0,1,1,1,0.07,0,0,0
+usuario199@mail.com,Factura pendiente,234,58,0,0,1,1,0.21,1,3,1
+usuario200@mail.com,Oferta especial,304,73,1,0,1,0,0.66,6,1,1
+usuario201@mail.com,Actualización de cuenta,177,55,1,1,0,0,0.33,3,2,1
+usuario202@mail.com,Recordatorio de cita,254,61,0,0,0,0,0.64,1,3,1
+usuario203@mail.com,Aviso de seguridad,491,66,0,1,0,0,1.0,5,1,1
+usuario204@mail.com,Novedades del mes,105,61,1,0,0,1,0.3,3,1,1
+usuario205@mail.com,Información importante,386,65,1,1,1,0,0.06,9,0,1
+usuario206@mail.com,Saludos cordiales,279,100,0,0,0,0,0.49,8,2,1
+usuario207@mail.com,Factura pendiente,233,22,0,1,0,0,0.62,8,0,0
+usuario208@mail.com,Recordatorio de cita,421,81,0,0,1,0,0.13,6,0,1
+usuario209@mail.com,Actualización de cuenta,422,58,0,1,1,0,0.19,8,0,1
+usuario210@mail.com,Actualización de cuenta,321,18,0,0,0,1,0.79,0,3,0
+usuario211@mail.com,Promoción exclusiva,248,79,1,0,1,0,0.85,0,0,1
+usuario212@mail.com,Actualización de cuenta,208,65,0,1,0,0,0.62,3,2,1
+usuario213@mail.com,Promoción exclusiva,386,71,1,0,0,0,0.8,3,3,1
+usuario214@mail.com,Aviso de seguridad,439,74,1,1,0,0,0.05,10,3,1
+usuario215@mail.com,Actualización de cuenta,475,20,1,0,1,0,0.61,8,1,0
+usuario216@mail.com,Información importante,281,74,0,1,0,1,0.42,9,1,1
+usuario217@mail.com,Promoción exclusiva,460,58,0,1,0,1,0.94,10,0,1
+usuario218@mail.com,Actualización de cuenta,65,17,0,1,1,0,0.96,9,1,0
+usuario219@mail.com,Promoción exclusiva,391,20,1,1,0,0,0.17,7,1,0
+usuario220@mail.com,Novedades del mes,152,27,0,1,0,0,0.11,6,2,0
+usuario221@mail.com,Factura pendiente,40,78,0,0,1,1,0.32,6,1,1
+usuario222@mail.com,Actualización de cuenta,437,10,1,0,1,0,0.93,5,0,0
+usuario223@mail.com,Oferta especial,288,44,1,0,1,0,0.76,9,3,0
+usuario224@mail.com,Reunión mañana,161,96,0,1,0,1,0.07,10,3,1
+usuario225@mail.com,Factura pendiente,275,75,0,1,1,1,0.39,7,1,1
+usuario226@mail.com,Actualización de cuenta,475,46,0,0,0,0,0.3,4,1,0
+usuario227@mail.com,Novedades del mes,402,35,1,1,0,0,0.74,1,3,0
+usuario228@mail.com,Reunión mañana,160,8,1,0,1,1,0.68,1,1,0
+usuario229@mail.com,Reunión mañana,156,46,1,1,0,1,0.14,9,2,0
+usuario230@mail.com,Novedades del mes,387,95,1,0,1,1,0.64,10,0,1
+usuario231@mail.com,Actualización de cuenta,352,27,1,1,0,0,0.4,4,1,0
+usuario232@mail.com,Información importante,159,44,0,0,1,0,0.89,8,0,0
+usuario233@mail.com,Información importante,433,23,0,0,1,0,0.75,6,3,0
+usuario234@mail.com,Oferta especial,84,50,0,0,0,1,0.22,3,0,0
+usuario235@mail.com,Aviso de seguridad,458,89,0,1,0,0,0.86,7,0,1
+usuario236@mail.com,Aviso de seguridad,50,45,1,0,1,1,0.67,5,2,0
+usuario237@mail.com,Factura pendiente,297,93,0,1,0,1,0.59,6,2,1
+usuario238@mail.com,Promoción exclusiva,387,81,1,1,1,0,0.49,2,1,1
+usuario239@mail.com,Actualización de cuenta,480,76,0,0,1,0,0.71,9,1,1
+usuario240@mail.com,Saludos cordiales,206,28,1,1,0,0,0.31,6,2,0
+usuario241@mail.com,Factura pendiente,390,26,0,0,0,0,0.27,2,1,0
+usuario242@mail.com,Factura pendiente,108,67,1,0,1,1,0.5,6,0,1
+usuario243@mail.com,Recordatorio de cita,29,6,0,0,1,1,0.68,6,3,0
+usuario244@mail.com,Información importante,226,88,0,0,0,1,0.47,2,2,1
+usuario245@mail.com,Actualización de cuenta,50,53,0,1,1,1,0.7,8,2,1
+usuario246@mail.com,Factura pendiente,58,85,0,1,0,0,0.52,8,1,1
+usuario247@mail.com,Información importante,21,55,1,1,0,1,0.34,8,0,1
+usuario248@mail.com,Factura pendiente,253,25,0,1,1,0,0.67,8,1,0
+usuario249@mail.com,Saludos cordiales,495,74,0,1,0,1,0.19,1,3,1
+usuario250@mail.com,Reunión mañana,84,64,0,1,0,1,0.53,7,2,1
+usuario251@mail.com,Información importante,87,87,1,1,0,1,0.34,1,2,1
+usuario252@mail.com,Información importante,443,16,0,1,1,1,0.39,1,0,0
+usuario253@mail.com,Actualización de cuenta,472,42,1,0,1,1,0.81,5,3,0
+usuario254@mail.com,Promoción exclusiva,210,58,0,0,1,1,0.89,1,0,1
+usuario255@mail.com,Información importante,302,83,0,1,0,0,0.27,3,2,1
+usuario256@mail.com,Oferta especial,279,62,0,1,1,0,0.13,9,3,1
+usuario257@mail.com,Novedades del mes,180,22,0,0,1,0,0.65,0,3,0
+usuario258@mail.com,Saludos cordiales,78,44,1,0,0,0,0.14,8,3,0
+usuario259@mail.com,Aviso de seguridad,227,29,0,1,1,0,0.37,1,2,0
+usuario260@mail.com,Factura pendiente,346,54,1,0,0,1,0.25,6,1,1
+usuario261@mail.com,Recordatorio de cita,173,100,0,0,0,1,0.14,3,1,1
+usuario262@mail.com,Factura pendiente,133,28,1,1,0,1,0.55,9,0,0
+usuario263@mail.com,Oferta especial,36,56,0,0,0,1,0.47,7,0,1
+usuario264@mail.com,Promoción exclusiva,361,73,0,1,1,1,0.32,6,0,1
+usuario265@mail.com,Novedades del mes,137,74,1,1,1,0,0.6,6,3,1
+usuario266@mail.com,Saludos cordiales,489,26,1,1,1,0,0.81,6,3,0
+usuario267@mail.com,Factura pendiente,119,93,0,1,0,1,0.42,4,3,1
+usuario268@mail.com,Promoción exclusiva,261,40,1,1,1,0,0.51,4,2,0
+usuario269@mail.com,Información importante,91,88,0,1,1,0,0.29,6,3,1
+usuario270@mail.com,Aviso de seguridad,271,47,0,0,1,1,0.69,3,0,0
+usuario271@mail.com,Factura pendiente,201,47,1,0,0,0,0.79,7,1,0
+usuario272@mail.com,Factura pendiente,333,51,0,1,0,1,0.15,2,2,1
+usuario273@mail.com,Recordatorio de cita,289,82,1,1,1,1,0.98,4,3,1
+usuario274@mail.com,Novedades del mes,164,45,0,1,1,1,0.96,2,3,0
+usuario275@mail.com,Aviso de seguridad,280,59,0,1,0,0,0.14,5,0,1
+usuario276@mail.com,Factura pendiente,262,97,0,1,0,0,0.6,6,0,1
+usuario277@mail.com,Información importante,222,18,1,0,1,0,0.9,9,1,0
+usuario278@mail.com,Aviso de seguridad,188,87,0,0,1,0,0.23,2,1,1
+usuario279@mail.com,Promoción exclusiva,494,89,0,0,0,1,0.5,5,2,1
+usuario280@mail.com,Oferta especial,64,75,0,1,0,0,0.88,5,3,1
+usuario281@mail.com,Factura pendiente,256,37,0,1,1,1,0.4,8,0,0
+usuario282@mail.com,Reunión mañana,242,20,1,0,1,0,0.83,3,0,0
+usuario283@mail.com,Novedades del mes,494,83,0,1,1,0,0.8,9,1,1
+usuario284@mail.com,Promoción exclusiva,255,55,0,0,1,1,0.34,5,2,1
+usuario285@mail.com,Recordatorio de cita,473,54,0,0,1,1,0.33,10,3,1
+usuario286@mail.com,Reunión mañana,288,15,0,0,1,0,0.36,8,1,0
+usuario287@mail.com,Recordatorio de cita,224,15,0,1,1,0,0.15,0,3,0
+usuario288@mail.com,Novedades del mes,380,57,0,1,1,1,0.27,9,3,1
+usuario289@mail.com,Información importante,456,48,1,1,1,0,0.91,8,3,0
+usuario290@mail.com,Factura pendiente,53,73,0,0,0,1,0.92,8,0,1
+usuario291@mail.com,Novedades del mes,450,68,1,0,1,0,0.32,6,3,1
+usuario292@mail.com,Promoción exclusiva,453,72,1,1,0,0,0.73,5,0,1
+usuario293@mail.com,Novedades del mes,432,86,0,0,0,1,0.43,5,2,1
+usuario294@mail.com,Oferta especial,146,15,0,0,0,0,0.61,8,1,0
+usuario295@mail.com,Aviso de seguridad,385,74,0,0,0,0,0.62,4,2,1
+usuario296@mail.com,Recordatorio de cita,122,100,1,0,1,1,0.98,1,1,1
+usuario297@mail.com,Novedades del mes,434,90,1,1,1,0,0.62,2,0,1
+usuario298@mail.com,Novedades del mes,374,53,0,0,0,1,0.9,1,3,1
+usuario299@mail.com,Actualización de cuenta,423,44,0,0,1,0,0.0,1,3,0
+usuario300@mail.com,Reunión mañana,500,78,1,0,1,0,0.55,5,2,1
+usuario301@mail.com,Saludos cordiales,239,26,1,0,0,1,0.26,6,1,0
+usuario302@mail.com,Factura pendiente,279,60,1,1,1,1,0.93,1,2,1
+usuario303@mail.com,Reunión mañana,321,58,1,0,1,1,0.82,5,3,1
+usuario304@mail.com,Oferta especial,158,89,1,0,1,0,0.53,9,0,1
+usuario305@mail.com,Novedades del mes,170,92,0,0,0,0,0.11,2,1,1
+usuario306@mail.com,Reunión mañana,378,49,0,1,1,0,0.54,9,3,0
+usuario307@mail.com,Recordatorio de cita,56,31,1,1,0,0,0.49,1,1,0
+usuario308@mail.com,Aviso de seguridad,157,71,1,1,1,0,0.47,7,3,1
+usuario309@mail.com,Saludos cordiales,211,62,0,1,0,1,0.14,10,3,1
+usuario310@mail.com,Promoción exclusiva,305,81,1,1,1,0,0.19,9,3,1
+usuario311@mail.com,Saludos cordiales,247,93,0,0,0,0,0.68,1,2,1
+usuario312@mail.com,Actualización de cuenta,160,96,1,1,0,1,0.36,7,2,1
+usuario313@mail.com,Factura pendiente,247,45,0,0,0,1,0.98,2,3,0
+usuario314@mail.com,Saludos cordiales,454,93,1,1,1,0,0.1,10,0,1
+usuario315@mail.com,Reunión mañana,111,54,1,1,0,1,0.04,8,2,1
+usuario316@mail.com,Novedades del mes,370,17,1,0,0,0,0.12,6,3,0
+usuario317@mail.com,Novedades del mes,405,96,0,0,0,0,0.74,9,2,1
+usuario318@mail.com,Oferta especial,108,60,0,0,1,1,0.48,6,0,1
+usuario319@mail.com,Aviso de seguridad,262,62,1,0,1,0,0.66,6,3,1
+usuario320@mail.com,Saludos cordiales,242,77,1,1,1,0,0.02,0,2,1
+usuario321@mail.com,Novedades del mes,383,73,1,1,0,0,0.73,4,1,1
+usuario322@mail.com,Saludos cordiales,279,47,0,0,1,1,0.49,10,2,0
+usuario323@mail.com,Actualización de cuenta,351,96,0,0,1,0,0.83,9,0,1
+usuario324@mail.com,Oferta especial,487,100,1,1,1,0,0.79,3,0,1
+usuario325@mail.com,Aviso de seguridad,321,38,0,0,1,0,0.06,2,0,0
+usuario326@mail.com,Saludos cordiales,201,68,0,1,0,0,0.2,1,1,1
+usuario327@mail.com,Información importante,394,69,0,0,1,1,0.45,3,2,1
+usuario328@mail.com,Novedades del mes,229,70,0,1,1,1,0.27,2,3,1
+usuario329@mail.com,Saludos cordiales,172,8,0,1,1,0,0.94,5,0,0
+usuario330@mail.com,Recordatorio de cita,409,44,1,0,0,1,0.03,0,1,0
+usuario331@mail.com,Recordatorio de cita,363,49,0,1,1,1,0.6,1,1,0
+usuario332@mail.com,Recordatorio de cita,279,40,1,1,1,0,0.28,0,3,0
+usuario333@mail.com,Factura pendiente,335,19,1,0,0,1,0.11,0,2,0
+usuario334@mail.com,Factura pendiente,140,66,1,1,1,0,0.03,9,0,1
+usuario335@mail.com,Novedades del mes,84,14,0,1,0,0,0.16,7,1,0
+usuario336@mail.com,Actualización de cuenta,457,28,1,1,1,1,0.9,7,2,0
+usuario337@mail.com,Recordatorio de cita,28,79,1,0,0,0,0.1,4,1,1
+usuario338@mail.com,Actualización de cuenta,164,59,1,1,0,1,0.58,8,2,1
+usuario339@mail.com,Saludos cordiales,181,85,1,0,0,0,0.23,6,2,1
+usuario340@mail.com,Oferta especial,162,85,0,1,0,0,0.6,3,1,1
+usuario341@mail.com,Novedades del mes,456,100,1,0,1,0,0.34,3,0,1
+usuario342@mail.com,Reunión mañana,44,62,0,0,1,1,0.72,4,1,1
+usuario343@mail.com,Información importante,361,76,0,1,1,0,0.06,6,3,1
+usuario344@mail.com,Reunión mañana,459,70,0,0,0,0,0.19,8,2,1
+usuario345@mail.com,Recordatorio de cita,199,100,1,0,1,0,0.97,1,3,1
+usuario346@mail.com,Novedades del mes,259,68,0,0,0,0,0.85,1,0,1
+usuario347@mail.com,Factura pendiente,452,67,0,0,1,1,0.36,4,3,1
+usuario348@mail.com,Saludos cordiales,166,42,1,1,0,0,0.7,3,1,0
+usuario349@mail.com,Factura pendiente,84,12,0,0,0,1,0.32,7,1,0
+usuario350@mail.com,Novedades del mes,174,22,0,1,0,0,0.87,2,2,0
+usuario351@mail.com,Aviso de seguridad,234,64,1,1,1,0,0.09,4,1,1
+usuario352@mail.com,Saludos cordiales,176,21,1,1,0,0,0.76,6,3,0
+usuario353@mail.com,Recordatorio de cita,270,14,0,1,0,1,0.18,8,1,0
+usuario354@mail.com,Factura pendiente,352,7,1,0,1,1,0.37,5,2,0
+usuario355@mail.com,Oferta especial,119,20,0,0,1,0,0.57,1,2,0
+usuario356@mail.com,Recordatorio de cita,224,48,1,0,0,0,0.4,10,2,0
+usuario357@mail.com,Novedades del mes,451,21,1,1,1,1,0.65,7,0,0
+usuario358@mail.com,Oferta especial,488,37,0,1,1,1,0.14,6,2,0
+usuario359@mail.com,Novedades del mes,365,88,0,1,1,1,0.03,1,2,1
+usuario360@mail.com,Oferta especial,132,14,1,1,1,1,0.86,1,3,0
+usuario361@mail.com,Reunión mañana,391,19,0,0,0,1,0.15,8,0,0
+usuario362@mail.com,Novedades del mes,34,81,0,0,1,1,0.8,2,1,1
+usuario363@mail.com,Promoción exclusiva,117,93,0,0,0,0,0.14,4,2,1
+usuario364@mail.com,Novedades del mes,485,85,1,0,1,0,0.75,9,2,1
+usuario365@mail.com,Recordatorio de cita,329,38,0,0,0,1,0.15,0,2,0
+usuario366@mail.com,Actualización de cuenta,142,19,0,1,0,0,0.18,7,1,0
+usuario367@mail.com,Información importante,477,88,0,1,0,0,0.46,0,2,1
+usuario368@mail.com,Información importante,408,21,1,1,0,1,0.78,8,0,0
+usuario369@mail.com,Información importante,26,34,1,1,1,1,0.61,3,3,0
+usuario370@mail.com,Promoción exclusiva,201,38,1,0,1,1,0.25,1,2,0
+usuario371@mail.com,Promoción exclusiva,316,20,0,0,1,0,0.16,9,0,0
+usuario372@mail.com,Promoción exclusiva,395,93,0,1,1,0,0.68,5,2,1
+usuario373@mail.com,Novedades del mes,85,52,0,1,1,0,0.2,10,0,1
+usuario374@mail.com,Aviso de seguridad,47,77,0,0,1,0,0.91,8,2,1
+usuario375@mail.com,Aviso de seguridad,35,85,1,0,1,0,0.87,6,2,1
+usuario376@mail.com,Aviso de seguridad,373,24,0,1,0,0,0.29,7,2,0
+usuario377@mail.com,Aviso de seguridad,495,28,1,1,0,1,0.76,7,2,0
+usuario378@mail.com,Reunión mañana,456,93,0,1,0,1,0.43,8,1,1
+usuario379@mail.com,Oferta especial,236,59,0,0,0,1,0.45,6,3,1
+usuario380@mail.com,Saludos cordiales,471,87,0,0,0,0,0.97,3,1,1
+usuario381@mail.com,Aviso de seguridad,497,51,0,0,0,1,0.13,8,3,1
+usuario382@mail.com,Recordatorio de cita,423,41,1,0,0,1,0.88,4,3,0
+usuario383@mail.com,Actualización de cuenta,352,39,1,1,1,1,0.62,10,0,0
+usuario384@mail.com,Saludos cordiales,103,62,0,0,1,1,0.33,7,0,1
+usuario385@mail.com,Oferta especial,463,60,0,1,0,0,0.0,5,1,1
+usuario386@mail.com,Recordatorio de cita,210,86,1,1,1,0,0.88,4,0,1
+usuario387@mail.com,Recordatorio de cita,113,21,0,0,1,0,0.82,0,1,0
+usuario388@mail.com,Aviso de seguridad,340,71,1,1,1,1,0.77,9,1,1
+usuario389@mail.com,Aviso de seguridad,186,81,0,0,1,1,0.33,2,0,1
+usuario390@mail.com,Promoción exclusiva,327,65,1,1,0,0,0.32,3,3,1
+usuario391@mail.com,Reunión mañana,257,9,1,1,1,0,0.91,3,0,0
+usuario392@mail.com,Aviso de seguridad,58,44,1,1,1,0,0.19,6,3,0
+usuario393@mail.com,Actualización de cuenta,372,60,0,1,1,1,0.6,2,2,1
+usuario394@mail.com,Recordatorio de cita,131,19,0,1,1,0,0.39,1,0,0
+usuario395@mail.com,Promoción exclusiva,323,34,0,1,1,1,0.38,4,0,0
+usuario396@mail.com,Promoción exclusiva,449,69,0,1,0,1,0.92,3,1,1
+usuario397@mail.com,Información importante,249,24,1,0,0,0,0.61,4,2,0
+usuario398@mail.com,Reunión mañana,75,59,1,0,0,1,0.7,10,2,1
+usuario399@mail.com,Actualización de cuenta,388,85,1,1,0,0,0.84,4,3,1
+usuario400@mail.com,Aviso de seguridad,139,64,1,0,1,0,0.89,6,1,1
+usuario401@mail.com,Saludos cordiales,323,63,1,0,0,0,0.28,9,1,1
+usuario402@mail.com,Factura pendiente,392,41,0,0,0,0,0.82,2,0,0
+usuario403@mail.com,Saludos cordiales,42,95,0,0,1,1,0.33,10,0,1
+usuario404@mail.com,Recordatorio de cita,206,12,0,0,0,0,0.01,5,1,0
+usuario405@mail.com,Saludos cordiales,185,54,0,1,1,1,0.83,5,0,1
+usuario406@mail.com,Recordatorio de cita,312,92,1,1,1,0,0.33,0,1,1
+usuario407@mail.com,Saludos cordiales,222,45,0,0,1,1,0.15,5,2,0
+usuario408@mail.com,Factura pendiente,322,12,1,0,1,1,0.02,7,0,0
+usuario409@mail.com,Factura pendiente,373,90,0,1,1,1,0.16,2,0,1
+usuario410@mail.com,Factura pendiente,403,5,0,1,1,0,0.11,9,0,0
+usuario411@mail.com,Promoción exclusiva,284,6,1,1,0,1,0.83,4,3,0
+usuario412@mail.com,Oferta especial,409,75,1,0,1,0,0.46,6,2,1
+usuario413@mail.com,Información importante,85,5,0,0,1,1,0.3,7,2,0
+usuario414@mail.com,Reunión mañana,93,88,0,1,0,0,0.97,10,1,1
+usuario415@mail.com,Saludos cordiales,426,99,1,1,0,0,0.0,2,0,1
+usuario416@mail.com,Recordatorio de cita,362,9,0,0,1,0,0.42,0,3,0
+usuario417@mail.com,Factura pendiente,400,18,1,1,0,0,0.78,2,2,0
+usuario418@mail.com,Saludos cordiales,316,19,1,1,1,1,0.39,1,0,0
+usuario419@mail.com,Recordatorio de cita,241,77,1,1,0,1,0.66,6,2,1
+usuario420@mail.com,Factura pendiente,314,82,1,1,0,0,0.21,5,2,1
+usuario421@mail.com,Reunión mañana,496,74,1,0,1,0,1.0,8,1,1
+usuario422@mail.com,Novedades del mes,150,69,0,1,1,0,0.05,6,3,1
+usuario423@mail.com,Reunión mañana,401,37,1,0,0,0,0.32,8,0,0
+usuario424@mail.com,Recordatorio de cita,177,27,1,0,0,1,0.01,1,0,0
+usuario425@mail.com,Factura pendiente,27,7,1,1,1,1,0.2,4,2,0
+usuario426@mail.com,Información importante,453,17,0,1,0,0,0.28,8,1,0
+usuario427@mail.com,Promoción exclusiva,444,48,0,0,0,0,0.22,4,0,0
+usuario428@mail.com,Reunión mañana,245,6,1,0,0,0,0.27,0,0,0
+usuario429@mail.com,Oferta especial,255,19,0,1,1,0,0.94,6,1,0
+usuario430@mail.com,Promoción exclusiva,416,71,0,1,0,0,0.35,1,0,1
+usuario431@mail.com,Reunión mañana,466,90,0,0,1,1,0.68,8,1,1
+usuario432@mail.com,Novedades del mes,31,26,0,0,0,1,0.77,3,3,0
+usuario433@mail.com,Recordatorio de cita,51,76,1,0,1,0,0.12,3,2,1
+usuario434@mail.com,Saludos cordiales,273,16,1,0,1,0,0.87,0,0,0
+usuario435@mail.com,Saludos cordiales,215,99,0,1,1,0,0.58,6,1,1
+usuario436@mail.com,Promoción exclusiva,157,96,0,0,1,0,0.4,8,1,1
+usuario437@mail.com,Saludos cordiales,436,35,1,0,0,1,0.5,1,0,0
+usuario438@mail.com,Saludos cordiales,165,74,1,0,0,1,0.98,4,3,1
+usuario439@mail.com,Factura pendiente,148,32,0,0,1,1,0.26,7,0,0
+usuario440@mail.com,Recordatorio de cita,138,56,1,1,1,1,0.19,9,3,1
+usuario441@mail.com,Recordatorio de cita,403,77,0,0,0,0,0.12,8,2,1
+usuario442@mail.com,Actualización de cuenta,169,20,1,0,1,0,0.9,0,0,0
+usuario443@mail.com,Novedades del mes,374,13,1,1,1,0,0.09,2,0,0
+usuario444@mail.com,Saludos cordiales,258,69,0,1,1,1,0.11,6,3,1
+usuario445@mail.com,Aviso de seguridad,139,85,1,0,1,0,0.85,9,0,1
+usuario446@mail.com,Información importante,351,22,0,1,1,1,0.57,6,3,0
+usuario447@mail.com,Promoción exclusiva,171,41,0,1,1,1,0.84,9,3,0
+usuario448@mail.com,Saludos cordiales,221,55,1,0,1,0,0.01,2,2,1
+usuario449@mail.com,Aviso de seguridad,245,16,1,0,1,0,0.58,0,0,0
+usuario450@mail.com,Recordatorio de cita,248,47,1,0,1,0,0.2,10,3,0
+usuario451@mail.com,Promoción exclusiva,24,80,0,0,0,0,0.82,10,1,1
+usuario452@mail.com,Información importante,439,11,1,1,1,1,0.97,2,2,0
+usuario453@mail.com,Actualización de cuenta,378,43,1,0,1,1,0.58,8,3,0
+usuario454@mail.com,Saludos cordiales,203,9,1,0,0,1,0.68,8,0,0
+usuario455@mail.com,Oferta especial,300,69,1,0,1,1,0.26,2,0,1
+usuario456@mail.com,Reunión mañana,91,44,0,0,0,1,0.31,8,2,0
+usuario457@mail.com,Novedades del mes,423,78,0,1,0,0,0.24,10,1,1
+usuario458@mail.com,Saludos cordiales,41,12,1,1,0,0,0.15,3,1,0
+usuario459@mail.com,Promoción exclusiva,233,14,0,0,1,1,0.05,10,1,0
+usuario460@mail.com,Reunión mañana,301,86,0,1,1,0,0.85,7,2,1
+usuario461@mail.com,Novedades del mes,497,31,1,0,0,0,0.07,8,2,0
+usuario462@mail.com,Aviso de seguridad,497,60,1,0,0,1,0.24,9,0,1
+usuario463@mail.com,Novedades del mes,461,84,1,0,1,1,0.49,10,0,1
+usuario464@mail.com,Oferta especial,428,76,0,0,1,0,0.85,1,3,1
+usuario465@mail.com,Reunión mañana,205,63,0,0,1,1,0.69,9,0,1
+usuario466@mail.com,Saludos cordiales,461,34,1,0,0,0,0.01,8,0,0
+usuario467@mail.com,Saludos cordiales,250,65,0,0,0,0,0.26,5,0,1
+usuario468@mail.com,Recordatorio de cita,62,53,0,0,1,1,0.21,1,2,1
+usuario469@mail.com,Promoción exclusiva,444,6,0,1,1,0,0.69,5,0,0
+usuario470@mail.com,Oferta especial,213,58,1,1,1,0,0.65,4,2,1
+usuario471@mail.com,Factura pendiente,239,14,1,1,0,0,0.57,3,3,0
+usuario472@mail.com,Actualización de cuenta,435,75,1,0,1,0,0.37,7,3,1
+usuario473@mail.com,Reunión mañana,375,39,0,1,0,1,0.97,9,2,0
+usuario474@mail.com,Recordatorio de cita,450,24,1,0,1,1,0.36,5,0,0
+usuario475@mail.com,Oferta especial,53,34,1,0,1,0,0.63,2,2,0
+usuario476@mail.com,Oferta especial,274,16,0,1,1,1,0.94,9,3,0
+usuario477@mail.com,Actualización de cuenta,100,78,0,1,1,1,0.43,2,0,1
+usuario478@mail.com,Aviso de seguridad,253,89,0,0,0,0,0.55,9,2,1
+usuario479@mail.com,Información importante,219,62,1,0,0,0,0.29,7,0,1
+usuario480@mail.com,Aviso de seguridad,197,42,1,1,1,1,0.22,7,0,0
+usuario481@mail.com,Saludos cordiales,429,12,0,1,1,0,0.13,10,2,0
+usuario482@mail.com,Factura pendiente,496,11,0,1,0,0,0.81,6,0,0
+usuario483@mail.com,Aviso de seguridad,149,19,1,0,0,0,0.08,6,3,0
+usuario484@mail.com,Información importante,56,66,0,0,1,1,0.0,1,3,1
+usuario485@mail.com,Aviso de seguridad,186,28,1,1,1,1,0.37,3,3,0
+usuario486@mail.com,Actualización de cuenta,340,86,0,0,0,1,0.17,8,3,1
+usuario487@mail.com,Recordatorio de cita,348,58,0,0,1,0,0.94,8,3,1
+usuario488@mail.com,Promoción exclusiva,34,45,0,0,1,1,0.09,6,2,0
+usuario489@mail.com,Reunión mañana,374,71,1,1,0,0,0.03,1,3,1
+usuario490@mail.com,Reunión mañana,454,16,0,0,0,1,0.29,4,2,0
+usuario491@mail.com,Actualización de cuenta,135,58,1,0,1,0,0.99,0,3,1
+usuario492@mail.com,Aviso de seguridad,108,97,1,1,1,1,0.43,9,3,1
+usuario493@mail.com,Promoción exclusiva,263,20,1,0,1,0,1.0,5,1,0
+usuario494@mail.com,Recordatorio de cita,65,96,0,1,1,1,0.33,10,0,1
+usuario495@mail.com,Novedades del mes,169,45,1,0,1,1,0.32,3,0,0
+usuario496@mail.com,Promoción exclusiva,479,11,0,1,1,1,0.4,9,0,0
+usuario497@mail.com,Actualización de cuenta,152,20,1,0,1,1,0.01,3,1,0
+usuario498@mail.com,Información importante,468,88,1,1,0,1,0.36,5,3,1
+usuario499@mail.com,Novedades del mes,232,85,0,0,1,1,0.44,6,2,1
+usuario500@mail.com,Información importante,148,27,1,1,0,1,0.79,4,3,0
+usuario501@mail.com,Recordatorio de cita,28,86,0,0,0,0,0.62,5,1,1
+usuario502@mail.com,Aviso de seguridad,174,20,1,1,1,1,0.11,6,2,0
+usuario503@mail.com,Actualización de cuenta,421,12,0,1,1,1,0.61,5,1,0
+usuario504@mail.com,Recordatorio de cita,257,72,1,0,0,0,0.42,8,1,1
+usuario505@mail.com,Recordatorio de cita,455,8,1,0,1,1,0.79,2,3,0
+usuario506@mail.com,Reunión mañana,433,66,1,1,1,0,0.68,8,2,1
+usuario507@mail.com,Aviso de seguridad,471,64,1,1,1,0,0.27,2,1,1
+usuario508@mail.com,Oferta especial,190,17,0,1,0,0,0.87,7,2,0
+usuario509@mail.com,Oferta especial,126,6,0,0,0,1,0.87,8,0,0
+usuario510@mail.com,Promoción exclusiva,236,47,0,1,0,0,0.64,2,1,0
+usuario511@mail.com,Información importante,408,70,0,1,1,0,0.56,0,2,1
+usuario512@mail.com,Aviso de seguridad,68,20,1,1,1,0,0.98,2,1,0
+usuario513@mail.com,Promoción exclusiva,432,81,0,0,0,1,0.1,4,2,1
+usuario514@mail.com,Reunión mañana,282,72,0,0,1,0,0.06,2,3,1
+usuario515@mail.com,Aviso de seguridad,231,10,1,0,1,1,0.31,5,1,0
+usuario516@mail.com,Novedades del mes,209,92,0,1,1,0,0.54,2,3,1
+usuario517@mail.com,Reunión mañana,46,7,1,0,1,1,0.1,1,1,0
+usuario518@mail.com,Oferta especial,47,61,1,0,1,1,0.83,3,2,1
+usuario519@mail.com,Novedades del mes,89,86,0,0,1,1,0.72,6,1,1
+usuario520@mail.com,Saludos cordiales,448,67,0,0,0,0,0.51,2,3,1
+usuario521@mail.com,Saludos cordiales,387,81,0,0,1,0,0.59,7,0,1
+usuario522@mail.com,Novedades del mes,78,67,1,0,1,0,0.89,4,3,1
+usuario523@mail.com,Aviso de seguridad,154,91,0,1,1,1,0.29,5,2,1
+usuario524@mail.com,Recordatorio de cita,484,77,0,0,1,1,0.4,6,1,1
+usuario525@mail.com,Información importante,63,69,0,1,1,1,0.05,9,1,1
+usuario526@mail.com,Oferta especial,441,59,1,1,0,1,0.82,8,0,1
+usuario527@mail.com,Factura pendiente,166,11,1,0,0,0,0.1,8,0,0
+usuario528@mail.com,Recordatorio de cita,129,82,1,0,1,1,0.63,9,0,1
+usuario529@mail.com,Saludos cordiales,270,57,1,0,0,1,0.42,3,1,1
+usuario530@mail.com,Factura pendiente,240,94,0,1,1,0,0.7,3,2,1
+usuario531@mail.com,Factura pendiente,396,83,0,1,1,0,0.85,5,1,1
+usuario532@mail.com,Factura pendiente,236,52,0,1,1,1,0.4,6,1,1
+usuario533@mail.com,Actualización de cuenta,188,90,1,0,0,1,0.5,10,3,1
+usuario534@mail.com,Actualización de cuenta,179,25,0,0,1,0,0.04,0,2,0
+usuario535@mail.com,Novedades del mes,274,39,1,1,0,1,0.09,7,1,0
+usuario536@mail.com,Novedades del mes,108,96,1,1,0,0,0.97,6,0,1
+usuario537@mail.com,Novedades del mes,67,60,0,0,0,1,0.15,7,0,1
+usuario538@mail.com,Factura pendiente,45,41,0,0,1,0,0.19,3,2,0
+usuario539@mail.com,Novedades del mes,368,96,0,0,0,1,0.68,6,3,1
+usuario540@mail.com,Actualización de cuenta,395,20,0,1,0,0,0.9,0,2,0
+usuario541@mail.com,Actualización de cuenta,177,57,1,0,1,0,0.33,9,2,1
+usuario542@mail.com,Novedades del mes,499,49,0,1,1,0,0.11,1,1,0
+usuario543@mail.com,Factura pendiente,30,8,0,1,0,1,0.34,7,1,0
+usuario544@mail.com,Información importante,224,8,0,0,1,0,0.38,7,2,0
+usuario545@mail.com,Oferta especial,66,37,0,1,1,0,0.62,9,3,0
+usuario546@mail.com,Actualización de cuenta,334,60,1,1,1,0,0.53,2,0,1
+usuario547@mail.com,Información importante,147,52,0,1,0,0,0.32,2,1,1
+usuario548@mail.com,Oferta especial,334,77,0,0,1,0,0.66,1,0,1
+usuario549@mail.com,Recordatorio de cita,53,17,1,1,1,1,0.05,10,2,0
+usuario550@mail.com,Oferta especial,391,54,0,0,1,1,0.29,4,0,1
+usuario551@mail.com,Promoción exclusiva,311,40,1,0,1,0,0.41,9,1,0
+usuario552@mail.com,Factura pendiente,233,22,1,1,0,0,0.72,2,1,0
+usuario553@mail.com,Aviso de seguridad,176,14,0,0,1,0,0.98,9,0,0
+usuario554@mail.com,Saludos cordiales,499,26,1,1,1,0,0.36,2,0,0
+usuario555@mail.com,Aviso de seguridad,430,28,0,1,0,1,0.86,1,3,0
+usuario556@mail.com,Factura pendiente,408,34,0,1,0,0,0.09,6,2,0
+usuario557@mail.com,Factura pendiente,234,58,1,0,0,1,0.46,4,0,1
+usuario558@mail.com,Información importante,350,77,1,1,0,0,0.37,1,2,1
+usuario559@mail.com,Reunión mañana,448,17,0,0,0,1,0.16,2,0,0
+usuario560@mail.com,Actualización de cuenta,199,14,0,1,1,0,0.07,7,1,0
+usuario561@mail.com,Factura pendiente,445,69,1,0,1,1,0.14,9,0,1
+usuario562@mail.com,Oferta especial,137,44,1,1,0,0,0.69,8,1,0
+usuario563@mail.com,Aviso de seguridad,145,58,1,0,1,1,0.96,0,0,1
+usuario564@mail.com,Novedades del mes,144,82,0,0,0,1,0.47,4,0,1
+usuario565@mail.com,Actualización de cuenta,44,89,0,0,0,1,0.07,3,3,1
+usuario566@mail.com,Aviso de seguridad,415,96,0,0,1,0,0.68,3,1,1
+usuario567@mail.com,Información importante,251,8,0,1,1,0,0.93,10,0,0
+usuario568@mail.com,Reunión mañana,374,17,1,0,1,0,0.29,8,1,0
+usuario569@mail.com,Oferta especial,49,23,1,0,0,0,0.29,6,1,0
+usuario570@mail.com,Promoción exclusiva,292,88,0,0,0,0,0.51,9,3,1
+usuario571@mail.com,Novedades del mes,81,29,0,1,0,0,0.94,9,3,0
+usuario572@mail.com,Promoción exclusiva,86,42,0,1,1,0,0.8,9,1,0
+usuario573@mail.com,Actualización de cuenta,146,91,1,0,0,1,0.44,3,3,1
+usuario574@mail.com,Novedades del mes,43,33,0,0,0,1,0.76,0,3,0
+usuario575@mail.com,Factura pendiente,326,40,0,1,0,1,0.58,0,1,0
+usuario576@mail.com,Reunión mañana,106,82,0,1,0,1,0.57,0,2,1
+usuario577@mail.com,Oferta especial,437,13,0,0,0,1,0.5,6,1,0
+usuario578@mail.com,Novedades del mes,78,31,0,1,0,0,0.25,10,0,0
+usuario579@mail.com,Información importante,318,37,1,1,1,1,0.45,9,3,0
+usuario580@mail.com,Factura pendiente,342,64,1,1,1,1,0.86,7,1,1
+usuario581@mail.com,Información importante,278,98,0,1,1,0,0.75,4,3,1
+usuario582@mail.com,Información importante,135,10,1,1,0,0,0.82,6,0,0
+usuario583@mail.com,Saludos cordiales,497,49,0,0,1,0,0.46,10,2,0
+usuario584@mail.com,Información importante,328,85,1,0,1,0,0.38,0,0,1
+usuario585@mail.com,Oferta especial,347,66,1,1,1,1,0.53,9,2,1
+usuario586@mail.com,Reunión mañana,360,37,1,0,0,0,0.1,1,1,0
+usuario587@mail.com,Aviso de seguridad,459,39,1,0,0,1,0.91,7,1,0
+usuario588@mail.com,Aviso de seguridad,177,99,0,1,1,1,0.87,7,3,1
+usuario589@mail.com,Promoción exclusiva,386,12,1,1,1,1,0.43,10,1,0
+usuario590@mail.com,Actualización de cuenta,490,98,1,1,0,0,0.28,3,0,1
+usuario591@mail.com,Reunión mañana,364,67,0,1,1,1,0.4,4,3,1
+usuario592@mail.com,Saludos cordiales,299,48,1,1,0,0,0.58,1,1,0
+usuario593@mail.com,Reunión mañana,408,12,0,0,0,1,0.47,5,1,0
+usuario594@mail.com,Novedades del mes,223,55,1,1,0,1,0.37,5,3,1
+usuario595@mail.com,Aviso de seguridad,156,33,1,0,0,0,0.93,4,3,0
+usuario596@mail.com,Factura pendiente,301,9,0,1,0,1,0.49,10,1,0
+usuario597@mail.com,Oferta especial,114,13,1,1,0,1,0.6,5,2,0
+usuario598@mail.com,Actualización de cuenta,112,90,0,1,1,0,0.48,3,1,1
+usuario599@mail.com,Aviso de seguridad,73,89,1,0,1,0,0.88,7,0,1
+usuario600@mail.com,Novedades del mes,51,56,1,0,0,1,0.91,3,1,1
+usuario601@mail.com,Novedades del mes,355,7,0,1,1,0,0.97,2,2,0
+usuario602@mail.com,Información importante,191,52,1,0,1,1,0.73,6,0,1
+usuario603@mail.com,Novedades del mes,399,28,1,0,1,0,0.96,6,3,0
+usuario604@mail.com,Información importante,368,75,0,1,0,0,0.52,0,3,1
+usuario605@mail.com,Factura pendiente,377,51,1,0,1,0,0.04,2,0,1
+usuario606@mail.com,Actualización de cuenta,318,83,0,1,0,0,0.07,5,1,1
+usuario607@mail.com,Oferta especial,57,12,1,1,1,0,0.98,2,0,0
+usuario608@mail.com,Oferta especial,343,49,0,1,1,1,0.66,0,1,0
+usuario609@mail.com,Información importante,109,91,1,1,1,1,0.06,10,2,1
+usuario610@mail.com,Recordatorio de cita,477,79,1,1,0,0,0.58,2,2,1
+usuario611@mail.com,Información importante,284,80,0,1,1,0,0.71,2,0,1
+usuario612@mail.com,Factura pendiente,55,22,0,1,1,0,0.76,4,3,0
+usuario613@mail.com,Información importante,132,83,1,1,1,0,0.19,0,0,1
+usuario614@mail.com,Oferta especial,303,56,0,1,0,0,0.3,2,1,1
+usuario615@mail.com,Actualización de cuenta,390,12,0,0,0,0,0.04,7,0,0
+usuario616@mail.com,Recordatorio de cita,296,63,1,1,0,0,0.3,5,0,1
+usuario617@mail.com,Aviso de seguridad,180,50,0,0,0,1,0.73,5,3,0
+usuario618@mail.com,Factura pendiente,265,33,1,0,0,0,0.54,5,2,0
+usuario619@mail.com,Oferta especial,334,19,1,0,1,1,0.34,6,3,0
+usuario620@mail.com,Reunión mañana,32,32,0,1,0,0,0.14,8,2,0
+usuario621@mail.com,Saludos cordiales,170,39,1,1,1,0,0.34,4,1,0
+usuario622@mail.com,Información importante,268,88,0,1,1,1,0.07,1,3,1
+usuario623@mail.com,Información importante,264,70,0,1,1,0,0.47,0,3,1
+usuario624@mail.com,Actualización de cuenta,112,8,1,0,1,1,0.13,9,3,0
+usuario625@mail.com,Factura pendiente,168,32,1,1,1,0,0.43,5,0,0
+usuario626@mail.com,Actualización de cuenta,380,64,1,0,0,0,0.59,6,3,1
+usuario627@mail.com,Novedades del mes,131,66,1,0,0,0,0.77,9,2,1
+usuario628@mail.com,Oferta especial,210,88,0,0,1,0,0.69,6,0,1
+usuario629@mail.com,Recordatorio de cita,352,12,1,0,1,1,0.08,8,0,0
+usuario630@mail.com,Actualización de cuenta,46,95,0,0,0,0,0.33,5,1,1
+usuario631@mail.com,Factura pendiente,142,27,1,1,0,1,0.77,4,3,0
+usuario632@mail.com,Saludos cordiales,327,6,1,0,1,1,0.27,7,3,0
+usuario633@mail.com,Promoción exclusiva,229,76,1,1,0,1,0.92,10,3,1
+usuario634@mail.com,Reunión mañana,30,53,0,1,0,1,0.26,0,0,1
+usuario635@mail.com,Actualización de cuenta,408,60,1,1,0,1,0.84,5,2,1
+usuario636@mail.com,Oferta especial,121,16,0,0,1,1,0.16,5,0,0
+usuario637@mail.com,Oferta especial,173,81,0,1,1,1,0.77,5,2,1
+usuario638@mail.com,Reunión mañana,49,69,0,1,0,1,0.77,0,0,1
+usuario639@mail.com,Promoción exclusiva,379,65,1,0,1,0,0.43,7,0,1
+usuario640@mail.com,Reunión mañana,440,56,0,0,1,1,0.24,9,3,1
+usuario641@mail.com,Actualización de cuenta,48,27,1,0,0,0,0.73,4,0,0
+usuario642@mail.com,Promoción exclusiva,356,53,1,1,0,1,0.95,6,0,1
+usuario643@mail.com,Reunión mañana,112,11,0,1,0,0,0.41,10,1,0
+usuario644@mail.com,Aviso de seguridad,362,38,0,0,0,0,0.15,1,0,0
+usuario645@mail.com,Recordatorio de cita,215,62,0,0,1,0,0.6,9,0,1
+usuario646@mail.com,Novedades del mes,317,74,1,0,0,0,0.49,2,2,1
+usuario647@mail.com,Oferta especial,202,71,0,0,0,0,0.95,9,2,1
+usuario648@mail.com,Reunión mañana,405,69,0,0,0,1,0.84,10,2,1
+usuario649@mail.com,Oferta especial,249,5,0,0,0,0,0.73,9,1,0
+usuario650@mail.com,Aviso de seguridad,460,23,1,0,0,1,0.03,5,1,0
+usuario651@mail.com,Novedades del mes,130,84,1,1,0,1,0.03,3,0,1
+usuario652@mail.com,Reunión mañana,365,48,0,0,0,1,0.3,4,1,0
+usuario653@mail.com,Actualización de cuenta,326,54,1,1,1,0,0.91,8,0,1
+usuario654@mail.com,Oferta especial,149,17,0,1,0,0,0.74,10,3,0
+usuario655@mail.com,Actualización de cuenta,456,37,1,0,1,1,0.78,8,0,0
+usuario656@mail.com,Oferta especial,144,5,1,1,1,1,0.35,5,3,0
+usuario657@mail.com,Actualización de cuenta,182,94,1,0,0,0,0.09,6,0,1
+usuario658@mail.com,Oferta especial,243,94,0,1,0,1,0.91,4,3,1
+usuario659@mail.com,Oferta especial,274,95,1,0,0,1,0.56,1,1,1
+usuario660@mail.com,Reunión mañana,243,29,0,0,0,0,0.46,10,1,0
+usuario661@mail.com,Promoción exclusiva,151,89,0,0,1,1,0.3,3,3,1
+usuario662@mail.com,Factura pendiente,236,70,1,1,0,0,0.74,3,1,1
+usuario663@mail.com,Recordatorio de cita,181,62,1,1,1,1,0.64,1,0,1
+usuario664@mail.com,Factura pendiente,240,73,1,0,0,0,0.34,3,2,1
+usuario665@mail.com,Reunión mañana,467,57,0,0,0,0,0.78,7,1,1
+usuario666@mail.com,Aviso de seguridad,59,80,0,1,0,1,0.17,7,0,1
+usuario667@mail.com,Oferta especial,170,46,0,1,1,0,0.51,5,0,0
+usuario668@mail.com,Promoción exclusiva,449,98,1,1,0,1,0.12,1,0,1
+usuario669@mail.com,Actualización de cuenta,223,90,0,0,1,1,0.06,7,3,1
+usuario670@mail.com,Información importante,480,43,0,0,0,0,0.52,7,0,0
+usuario671@mail.com,Promoción exclusiva,118,60,1,0,1,1,0.05,0,2,1
+usuario672@mail.com,Novedades del mes,326,33,1,0,0,1,0.33,10,0,0
+usuario673@mail.com,Aviso de seguridad,66,65,1,0,0,1,0.19,8,3,1
+usuario674@mail.com,Aviso de seguridad,34,47,1,0,0,0,0.44,3,1,0
+usuario675@mail.com,Reunión mañana,203,40,1,1,1,1,0.27,8,0,0
+usuario676@mail.com,Novedades del mes,221,38,1,1,1,1,0.76,8,2,0
+usuario677@mail.com,Recordatorio de cita,174,82,1,0,1,1,0.73,5,1,1
+usuario678@mail.com,Información importante,98,97,1,1,0,1,0.69,7,3,1
+usuario679@mail.com,Oferta especial,196,7,1,1,0,0,0.56,9,1,0
+usuario680@mail.com,Promoción exclusiva,195,20,0,0,0,1,0.26,0,3,0
+usuario681@mail.com,Información importante,142,22,0,0,0,0,0.48,8,2,0
+usuario682@mail.com,Reunión mañana,77,67,0,1,0,1,0.4,8,0,1
+usuario683@mail.com,Promoción exclusiva,35,32,1,1,0,0,0.46,0,1,0
+usuario684@mail.com,Actualización de cuenta,114,100,0,0,1,1,0.16,0,3,1
+usuario685@mail.com,Actualización de cuenta,347,57,0,0,1,0,0.92,4,2,1
+usuario686@mail.com,Factura pendiente,343,70,0,1,0,1,0.56,3,1,1
+usuario687@mail.com,Aviso de seguridad,319,73,0,0,1,1,0.13,4,0,1
+usuario688@mail.com,Actualización de cuenta,473,51,0,0,0,0,0.11,1,2,1
+usuario689@mail.com,Oferta especial,86,50,1,0,1,1,0.39,4,3,0
+usuario690@mail.com,Información importante,203,26,1,0,1,1,0.47,3,1,0
+usuario691@mail.com,Actualización de cuenta,345,9,0,0,1,1,0.14,8,1,0
+usuario692@mail.com,Reunión mañana,226,22,0,1,0,1,0.68,3,1,0
+usuario693@mail.com,Recordatorio de cita,103,82,0,0,1,1,0.49,7,0,1
+usuario694@mail.com,Novedades del mes,119,78,0,1,0,1,0.82,7,1,1
+usuario695@mail.com,Factura pendiente,308,89,0,0,0,1,0.46,7,2,1
+usuario696@mail.com,Recordatorio de cita,442,88,0,1,0,1,0.67,8,3,1
+usuario697@mail.com,Actualización de cuenta,330,96,1,0,0,0,0.99,6,2,1
+usuario698@mail.com,Factura pendiente,312,83,1,1,1,1,0.29,9,2,1
+usuario699@mail.com,Saludos cordiales,225,11,0,0,1,0,0.2,10,1,0
+usuario700@mail.com,Información importante,481,83,0,1,1,0,0.55,10,0,1
+usuario701@mail.com,Promoción exclusiva,180,77,0,1,1,1,0.06,5,1,1
+usuario702@mail.com,Información importante,272,43,1,0,1,0,0.16,9,0,0
+usuario703@mail.com,Saludos cordiales,379,72,0,0,1,1,0.79,1,1,1
+usuario704@mail.com,Promoción exclusiva,155,32,1,1,1,0,0.42,6,3,0
+usuario705@mail.com,Reunión mañana,399,12,1,0,1,1,0.34,10,3,0
+usuario706@mail.com,Reunión mañana,425,22,1,0,1,1,0.87,9,0,0
+usuario707@mail.com,Novedades del mes,343,71,1,0,0,1,0.43,3,3,1
+usuario708@mail.com,Reunión mañana,135,48,1,1,0,1,0.95,10,3,0
+usuario709@mail.com,Reunión mañana,370,79,0,0,1,0,0.59,3,1,1
+usuario710@mail.com,Oferta especial,326,34,0,1,1,1,0.04,8,3,0
+usuario711@mail.com,Factura pendiente,51,69,0,0,0,0,0.69,2,2,1
+usuario712@mail.com,Novedades del mes,220,63,1,1,1,0,0.18,6,0,1
+usuario713@mail.com,Factura pendiente,250,20,1,0,0,1,0.56,0,2,0
+usuario714@mail.com,Actualización de cuenta,44,94,0,1,0,1,0.67,4,0,1
+usuario715@mail.com,Reunión mañana,478,10,0,1,1,0,0.81,0,3,0
+usuario716@mail.com,Saludos cordiales,480,63,0,0,1,1,0.96,2,3,1
+usuario717@mail.com,Recordatorio de cita,120,40,0,0,1,1,0.32,5,0,0
+usuario718@mail.com,Información importante,144,43,1,0,0,1,0.55,5,1,0
+usuario719@mail.com,Promoción exclusiva,243,56,1,0,1,0,0.01,8,2,1
+usuario720@mail.com,Promoción exclusiva,383,24,1,0,1,0,0.47,1,1,0
+usuario721@mail.com,Saludos cordiales,123,26,1,0,1,1,0.55,5,0,0
+usuario722@mail.com,Reunión mañana,308,57,0,1,1,1,0.35,2,2,1
+usuario723@mail.com,Información importante,144,91,1,0,0,0,0.6,9,2,1
+usuario724@mail.com,Promoción exclusiva,56,63,0,0,0,0,0.05,5,2,1
+usuario725@mail.com,Reunión mañana,183,5,1,1,1,1,0.86,10,3,0
+usuario726@mail.com,Promoción exclusiva,279,83,1,1,1,1,0.08,7,0,1
+usuario727@mail.com,Reunión mañana,147,29,1,1,1,0,0.86,5,3,0
+usuario728@mail.com,Aviso de seguridad,166,66,1,0,0,0,0.54,4,2,1
+usuario729@mail.com,Factura pendiente,259,27,1,1,0,0,0.36,7,3,0
+usuario730@mail.com,Aviso de seguridad,415,44,0,1,1,0,0.87,6,0,0
+usuario731@mail.com,Actualización de cuenta,115,81,0,0,1,0,0.6,5,2,1
+usuario732@mail.com,Oferta especial,282,59,0,1,1,0,0.78,10,3,1
+usuario733@mail.com,Promoción exclusiva,447,8,1,1,1,0,0.37,0,0,0
+usuario734@mail.com,Recordatorio de cita,56,97,1,0,1,0,0.67,8,2,1
+usuario735@mail.com,Novedades del mes,106,56,1,1,1,1,0.63,10,1,1
+usuario736@mail.com,Actualización de cuenta,292,44,1,0,0,0,0.89,6,3,0
+usuario737@mail.com,Oferta especial,354,93,1,0,1,1,0.86,0,1,1
+usuario738@mail.com,Oferta especial,150,92,0,1,0,0,0.6,6,0,1
+usuario739@mail.com,Saludos cordiales,40,75,0,0,0,0,0.62,8,0,1
+usuario740@mail.com,Actualización de cuenta,109,13,1,0,1,0,0.16,10,0,0
+usuario741@mail.com,Promoción exclusiva,34,65,0,1,1,1,0.22,8,2,1
+usuario742@mail.com,Actualización de cuenta,401,7,0,0,0,0,0.08,0,3,0
+usuario743@mail.com,Oferta especial,211,15,1,0,0,0,0.2,0,1,0
+usuario744@mail.com,Promoción exclusiva,398,67,1,0,0,0,0.54,7,0,1
+usuario745@mail.com,Factura pendiente,324,65,1,1,0,0,0.4,6,3,1
+usuario746@mail.com,Recordatorio de cita,315,20,1,0,0,0,0.85,8,2,0
+usuario747@mail.com,Novedades del mes,425,24,1,1,0,0,0.04,3,0,0
+usuario748@mail.com,Saludos cordiales,205,55,1,1,0,1,0.2,2,3,1
+usuario749@mail.com,Actualización de cuenta,296,64,0,0,1,1,0.01,10,0,1
+usuario750@mail.com,Reunión mañana,286,52,0,1,1,1,0.91,10,2,1
+usuario751@mail.com,Reunión mañana,160,100,1,0,1,0,0.56,6,2,1
+usuario752@mail.com,Saludos cordiales,193,73,1,0,0,0,0.69,9,2,1
+usuario753@mail.com,Recordatorio de cita,417,77,1,1,1,1,0.04,2,3,1
+usuario754@mail.com,Novedades del mes,488,56,0,1,0,0,0.95,4,1,1
+usuario755@mail.com,Reunión mañana,88,42,0,0,0,1,0.24,5,3,0
+usuario756@mail.com,Recordatorio de cita,460,36,0,0,0,1,0.82,0,3,0
+usuario757@mail.com,Reunión mañana,41,42,0,0,1,1,0.76,7,3,0
+usuario758@mail.com,Factura pendiente,464,45,0,0,0,0,0.95,0,1,0
+usuario759@mail.com,Novedades del mes,373,85,0,1,1,0,0.05,7,2,1
+usuario760@mail.com,Actualización de cuenta,183,13,1,1,0,0,0.89,7,0,0
+usuario761@mail.com,Actualización de cuenta,173,17,1,1,1,0,0.25,3,1,0
+usuario762@mail.com,Reunión mañana,220,74,1,1,1,1,0.69,2,0,1
+usuario763@mail.com,Novedades del mes,264,16,1,1,1,0,0.54,10,3,0
+usuario764@mail.com,Factura pendiente,118,24,0,1,1,1,0.59,8,2,0
+usuario765@mail.com,Actualización de cuenta,421,48,1,0,0,0,0.29,8,0,0
+usuario766@mail.com,Oferta especial,427,48,1,1,1,0,0.74,4,2,0
+usuario767@mail.com,Información importante,151,29,0,1,1,1,0.18,0,2,0
+usuario768@mail.com,Reunión mañana,149,84,1,0,1,1,0.23,4,2,1
+usuario769@mail.com,Factura pendiente,446,92,0,0,1,1,0.42,8,2,1
+usuario770@mail.com,Saludos cordiales,143,27,1,0,1,1,0.34,1,1,0
+usuario771@mail.com,Aviso de seguridad,403,10,0,0,0,0,0.28,4,1,0
+usuario772@mail.com,Oferta especial,177,8,0,0,1,1,0.33,4,3,0
+usuario773@mail.com,Recordatorio de cita,94,58,0,0,0,1,0.46,6,2,1
+usuario774@mail.com,Recordatorio de cita,427,89,1,0,1,1,0.19,3,0,1
+usuario775@mail.com,Novedades del mes,331,32,0,1,1,0,0.59,7,3,0
+usuario776@mail.com,Novedades del mes,299,50,1,0,1,0,0.23,6,3,0
+usuario777@mail.com,Información importante,434,86,0,1,0,1,0.12,8,0,1
+usuario778@mail.com,Aviso de seguridad,445,23,1,0,1,0,0.55,5,3,0
+usuario779@mail.com,Promoción exclusiva,459,35,0,1,1,1,0.1,10,2,0
+usuario780@mail.com,Factura pendiente,116,30,1,0,0,0,0.81,10,0,0
+usuario781@mail.com,Saludos cordiales,99,91,0,1,0,0,0.31,7,3,1
+usuario782@mail.com,Actualización de cuenta,209,21,0,1,1,1,0.5,0,3,0
+usuario783@mail.com,Información importante,267,68,1,0,1,1,0.36,1,1,1
+usuario784@mail.com,Factura pendiente,235,91,0,1,1,0,0.31,2,0,1
+usuario785@mail.com,Información importante,341,87,1,0,0,0,0.75,2,3,1
+usuario786@mail.com,Novedades del mes,198,11,0,1,0,1,0.66,8,0,0
+usuario787@mail.com,Actualización de cuenta,240,87,1,1,0,1,0.08,2,3,1
+usuario788@mail.com,Información importante,51,27,0,0,0,1,0.58,0,1,0
+usuario789@mail.com,Factura pendiente,457,20,0,1,0,1,0.82,7,3,0
+usuario790@mail.com,Promoción exclusiva,85,9,0,1,0,1,0.86,10,0,0
+usuario791@mail.com,Oferta especial,279,35,0,0,0,1,0.69,10,1,0
+usuario792@mail.com,Aviso de seguridad,489,23,0,1,1,1,0.39,1,1,0
+usuario793@mail.com,Recordatorio de cita,331,19,1,0,1,1,0.85,3,0,0
+usuario794@mail.com,Promoción exclusiva,457,52,1,1,0,1,0.71,1,3,1
+usuario795@mail.com,Aviso de seguridad,94,37,0,1,1,0,0.12,1,1,0
+usuario796@mail.com,Promoción exclusiva,284,88,1,0,1,0,0.95,8,1,1
+usuario797@mail.com,Recordatorio de cita,421,93,1,0,0,1,0.58,3,3,1
+usuario798@mail.com,Información importante,141,60,1,1,0,0,0.87,7,2,1
+usuario799@mail.com,Oferta especial,336,48,1,0,1,0,0.86,9,2,0
+usuario800@mail.com,Novedades del mes,371,20,1,1,0,0,0.6,9,2,0
+usuario801@mail.com,Reunión mañana,23,25,0,0,1,1,0.47,7,0,0
+usuario802@mail.com,Actualización de cuenta,201,57,1,0,0,0,0.63,3,3,1
+usuario803@mail.com,Información importante,168,79,0,1,0,0,0.59,5,1,1
+usuario804@mail.com,Promoción exclusiva,320,87,0,0,1,1,0.9,10,2,1
+usuario805@mail.com,Factura pendiente,376,97,1,1,1,1,0.09,8,3,1
+usuario806@mail.com,Reunión mañana,269,95,0,0,0,0,1.0,6,0,1
+usuario807@mail.com,Aviso de seguridad,154,72,0,1,0,1,0.49,1,2,1
+usuario808@mail.com,Recordatorio de cita,145,69,0,0,1,1,0.29,4,2,1
+usuario809@mail.com,Información importante,466,76,1,1,0,0,0.27,0,2,1
+usuario810@mail.com,Información importante,76,92,1,0,1,0,0.06,0,0,1
+usuario811@mail.com,Actualización de cuenta,218,58,0,0,1,0,0.02,0,3,1
+usuario812@mail.com,Reunión mañana,247,68,1,0,1,0,0.95,2,3,1
+usuario813@mail.com,Oferta especial,333,62,1,1,0,0,0.49,6,2,1
+usuario814@mail.com,Promoción exclusiva,355,79,0,1,1,1,0.92,4,0,1
+usuario815@mail.com,Reunión mañana,71,13,0,0,0,0,0.76,10,0,0
+usuario816@mail.com,Recordatorio de cita,474,6,0,0,0,0,0.63,4,0,0
+usuario817@mail.com,Actualización de cuenta,435,85,1,1,1,1,0.27,2,3,1
+usuario818@mail.com,Información importante,223,52,0,0,0,0,0.58,7,2,1
+usuario819@mail.com,Oferta especial,362,31,0,1,1,0,0.43,1,0,0
+usuario820@mail.com,Reunión mañana,240,35,1,1,1,0,0.35,5,1,0
+usuario821@mail.com,Saludos cordiales,374,76,0,1,0,0,0.47,10,1,1
+usuario822@mail.com,Actualización de cuenta,95,85,1,0,0,0,0.78,1,0,1
+usuario823@mail.com,Reunión mañana,101,68,0,1,1,0,0.09,0,3,1
+usuario824@mail.com,Factura pendiente,363,92,0,0,1,0,0.05,1,0,1
+usuario825@mail.com,Promoción exclusiva,458,23,0,1,0,0,0.89,4,0,0
+usuario826@mail.com,Reunión mañana,87,58,1,1,0,0,0.11,8,2,1
+usuario827@mail.com,Factura pendiente,139,68,0,0,0,0,0.49,2,0,1
+usuario828@mail.com,Novedades del mes,446,66,0,0,1,0,0.49,3,2,1
+usuario829@mail.com,Actualización de cuenta,367,70,1,1,1,1,0.06,9,1,1
+usuario830@mail.com,Novedades del mes,164,60,0,1,0,1,0.63,0,1,1
+usuario831@mail.com,Oferta especial,61,49,0,0,1,0,0.12,1,1,0
+usuario832@mail.com,Saludos cordiales,453,72,0,1,1,0,0.55,7,3,1
+usuario833@mail.com,Reunión mañana,315,38,0,1,1,1,0.88,5,0,0
+usuario834@mail.com,Factura pendiente,57,87,0,0,0,1,0.08,3,0,1
+usuario835@mail.com,Aviso de seguridad,398,96,1,0,0,1,0.5,1,2,1
+usuario836@mail.com,Oferta especial,76,97,0,0,1,1,0.08,6,2,1
+usuario837@mail.com,Actualización de cuenta,287,17,0,1,0,1,0.1,10,1,0
+usuario838@mail.com,Promoción exclusiva,99,44,1,0,1,1,0.27,5,0,0
+usuario839@mail.com,Información importante,268,50,0,1,1,1,0.04,1,0,0
+usuario840@mail.com,Reunión mañana,52,91,1,0,1,1,0.84,5,1,1
+usuario841@mail.com,Recordatorio de cita,218,19,1,0,0,0,0.54,7,1,0
+usuario842@mail.com,Novedades del mes,440,69,1,1,0,0,0.27,7,1,1
+usuario843@mail.com,Aviso de seguridad,233,59,0,1,0,0,0.98,4,0,1
+usuario844@mail.com,Novedades del mes,248,58,0,0,0,0,0.6,0,1,1
+usuario845@mail.com,Saludos cordiales,360,92,1,0,0,1,0.93,8,3,1
+usuario846@mail.com,Actualización de cuenta,296,76,1,0,1,1,0.13,6,1,1
+usuario847@mail.com,Actualización de cuenta,111,14,0,1,1,1,0.94,6,1,0
+usuario848@mail.com,Reunión mañana,343,48,1,0,1,0,0.76,8,1,0
+usuario849@mail.com,Oferta especial,35,72,0,1,1,0,0.71,3,3,1
+usuario850@mail.com,Actualización de cuenta,170,25,1,0,1,1,0.83,4,1,0
+usuario851@mail.com,Actualización de cuenta,468,81,0,0,1,1,0.03,6,0,1
+usuario852@mail.com,Saludos cordiales,159,6,1,1,1,0,0.62,8,3,0
+usuario853@mail.com,Información importante,210,15,1,1,0,1,0.48,8,1,0
+usuario854@mail.com,Recordatorio de cita,385,18,0,1,0,0,0.96,10,1,0
+usuario855@mail.com,Promoción exclusiva,314,40,0,1,0,1,0.7,8,1,0
+usuario856@mail.com,Reunión mañana,301,60,1,0,1,1,0.42,1,3,1
+usuario857@mail.com,Novedades del mes,231,34,0,0,1,0,0.49,8,3,0
+usuario858@mail.com,Saludos cordiales,182,85,0,1,0,1,0.73,5,0,1
+usuario859@mail.com,Reunión mañana,56,14,1,1,0,1,0.36,6,3,0
+usuario860@mail.com,Novedades del mes,48,23,0,1,1,1,0.92,0,1,0
+usuario861@mail.com,Reunión mañana,203,68,0,0,1,0,0.92,10,2,1
+usuario862@mail.com,Factura pendiente,425,31,1,1,0,0,0.69,7,3,0
+usuario863@mail.com,Recordatorio de cita,76,17,0,0,1,0,0.59,7,0,0
+usuario864@mail.com,Factura pendiente,155,86,1,0,1,0,0.61,3,3,1
+usuario865@mail.com,Recordatorio de cita,487,63,0,1,1,1,0.38,2,2,1
+usuario866@mail.com,Promoción exclusiva,388,66,0,1,0,1,0.92,0,1,1
+usuario867@mail.com,Oferta especial,406,94,0,0,0,1,0.98,0,1,1
+usuario868@mail.com,Reunión mañana,431,51,0,1,0,1,0.85,0,3,1
+usuario869@mail.com,Reunión mañana,204,45,0,0,0,1,0.59,1,1,0
+usuario870@mail.com,Recordatorio de cita,408,71,1,0,0,0,0.19,4,1,1
+usuario871@mail.com,Oferta especial,207,80,1,0,1,0,0.84,9,0,1
+usuario872@mail.com,Factura pendiente,478,8,1,1,0,1,0.27,8,2,0
+usuario873@mail.com,Aviso de seguridad,95,12,1,0,1,0,0.91,6,2,0
+usuario874@mail.com,Factura pendiente,129,75,1,0,0,1,0.48,1,3,1
+usuario875@mail.com,Novedades del mes,366,72,1,1,0,0,0.66,10,1,1
+usuario876@mail.com,Oferta especial,393,5,1,0,1,0,0.17,2,2,0
+usuario877@mail.com,Recordatorio de cita,162,44,1,1,0,0,0.58,7,2,0
+usuario878@mail.com,Actualización de cuenta,447,65,1,1,1,1,0.81,9,0,1
+usuario879@mail.com,Actualización de cuenta,498,76,1,0,1,0,0.53,4,1,1
+usuario880@mail.com,Reunión mañana,101,46,1,1,0,1,0.23,6,1,0
+usuario881@mail.com,Novedades del mes,50,98,0,1,0,1,0.78,4,2,1
+usuario882@mail.com,Novedades del mes,311,91,1,0,1,1,0.6,0,2,1
+usuario883@mail.com,Factura pendiente,438,10,0,0,1,0,0.89,6,0,0
+usuario884@mail.com,Oferta especial,100,57,1,0,0,1,0.25,2,0,1
+usuario885@mail.com,Promoción exclusiva,180,94,1,0,0,0,0.56,5,3,1
+usuario886@mail.com,Promoción exclusiva,412,80,1,1,0,1,0.88,2,3,1
+usuario887@mail.com,Factura pendiente,496,80,0,1,0,0,0.14,6,2,1
+usuario888@mail.com,Factura pendiente,203,60,1,1,0,0,0.58,1,1,1
+usuario889@mail.com,Novedades del mes,451,75,1,0,1,0,0.2,1,1,1
+usuario890@mail.com,Oferta especial,280,89,0,0,1,0,0.58,10,1,1
+usuario891@mail.com,Actualización de cuenta,492,32,1,0,0,1,0.2,6,3,0
+usuario892@mail.com,Novedades del mes,279,33,0,0,1,1,0.73,3,1,0
+usuario893@mail.com,Novedades del mes,338,42,0,0,0,1,0.65,6,3,0
+usuario894@mail.com,Información importante,294,35,1,1,0,1,0.54,2,0,0
+usuario895@mail.com,Reunión mañana,405,12,0,0,0,0,0.02,5,1,0
+usuario896@mail.com,Saludos cordiales,236,39,0,0,1,1,0.11,3,0,0
+usuario897@mail.com,Información importante,165,66,1,0,0,1,0.84,3,3,1
+usuario898@mail.com,Información importante,249,6,1,0,1,0,0.79,6,0,0
+usuario899@mail.com,Actualización de cuenta,95,31,0,1,0,0,0.11,5,2,0
+usuario900@mail.com,Aviso de seguridad,363,39,0,1,1,1,0.9,0,0,0
+usuario901@mail.com,Información importante,453,34,1,0,0,1,0.76,5,2,0
+usuario902@mail.com,Aviso de seguridad,50,18,0,0,0,0,0.39,1,2,0
+usuario903@mail.com,Factura pendiente,240,16,0,1,0,1,0.97,3,3,0
+usuario904@mail.com,Promoción exclusiva,128,97,0,0,0,0,0.08,4,1,1
+usuario905@mail.com,Promoción exclusiva,61,45,0,0,1,0,0.44,5,1,0
+usuario906@mail.com,Saludos cordiales,64,39,1,1,1,1,0.68,7,3,0
+usuario907@mail.com,Recordatorio de cita,192,28,1,1,0,0,0.28,9,2,0
+usuario908@mail.com,Oferta especial,366,41,1,0,1,0,0.21,0,1,0
+usuario909@mail.com,Actualización de cuenta,175,32,1,0,0,1,0.32,1,3,0
+usuario910@mail.com,Oferta especial,216,23,0,0,0,0,0.12,6,3,0
+usuario911@mail.com,Factura pendiente,126,31,0,0,1,0,0.72,1,2,0
+usuario912@mail.com,Actualización de cuenta,147,97,0,1,0,1,0.99,0,0,1
+usuario913@mail.com,Actualización de cuenta,157,63,0,1,1,0,0.08,3,3,1
+usuario914@mail.com,Saludos cordiales,412,48,1,0,1,1,0.72,3,3,0
+usuario915@mail.com,Oferta especial,207,76,1,0,0,0,0.11,9,0,1
+usuario916@mail.com,Saludos cordiales,372,54,0,1,1,1,0.77,8,1,1
+usuario917@mail.com,Saludos cordiales,322,98,1,0,1,0,0.36,0,1,1
+usuario918@mail.com,Novedades del mes,418,74,1,1,0,1,0.64,10,2,1
+usuario919@mail.com,Actualización de cuenta,50,96,1,1,0,1,0.03,2,2,1
+usuario920@mail.com,Aviso de seguridad,402,21,0,1,0,0,0.05,2,2,0
+usuario921@mail.com,Información importante,99,98,0,1,0,1,0.21,9,0,1
+usuario922@mail.com,Promoción exclusiva,475,35,1,0,0,0,0.66,3,1,0
+usuario923@mail.com,Saludos cordiales,460,17,0,0,1,1,0.55,0,3,0
+usuario924@mail.com,Información importante,256,80,1,1,1,1,0.37,4,0,1
+usuario925@mail.com,Oferta especial,40,83,0,1,1,0,0.54,5,0,1
+usuario926@mail.com,Promoción exclusiva,485,93,1,1,1,1,0.58,3,1,1
+usuario927@mail.com,Recordatorio de cita,219,75,1,1,0,0,0.2,10,3,1
+usuario928@mail.com,Información importante,258,41,1,0,1,1,0.37,9,2,0
+usuario929@mail.com,Novedades del mes,48,34,0,0,1,0,0.11,0,0,0
+usuario930@mail.com,Oferta especial,457,97,1,0,0,1,0.98,1,2,1
+usuario931@mail.com,Promoción exclusiva,460,50,1,1,0,0,0.95,5,2,0
+usuario932@mail.com,Información importante,470,85,1,0,0,1,0.79,7,1,1
+usuario933@mail.com,Oferta especial,57,79,0,1,1,0,0.03,7,2,1
+usuario934@mail.com,Saludos cordiales,266,31,1,1,1,1,0.64,6,1,0
+usuario935@mail.com,Reunión mañana,54,48,1,1,1,1,0.07,8,3,0
+usuario936@mail.com,Novedades del mes,288,15,1,1,0,1,0.71,5,1,0
+usuario937@mail.com,Actualización de cuenta,401,99,0,1,0,0,0.82,0,2,1
+usuario938@mail.com,Promoción exclusiva,31,26,0,1,1,1,0.13,10,1,0
+usuario939@mail.com,Novedades del mes,325,13,0,1,0,0,0.52,6,0,0
+usuario940@mail.com,Saludos cordiales,481,19,1,0,1,0,0.07,8,1,0
+usuario941@mail.com,Saludos cordiales,101,34,1,1,1,1,0.42,5,1,0
+usuario942@mail.com,Reunión mañana,406,8,0,0,1,1,0.66,9,1,0
+usuario943@mail.com,Actualización de cuenta,499,90,1,0,1,1,0.42,8,3,1
+usuario944@mail.com,Actualización de cuenta,351,64,1,1,1,1,0.3,7,1,1
+usuario945@mail.com,Aviso de seguridad,131,6,1,0,1,0,0.78,2,2,0
+usuario946@mail.com,Aviso de seguridad,448,90,1,0,1,0,0.65,4,2,1
+usuario947@mail.com,Reunión mañana,185,67,1,0,1,0,0.61,10,2,1
+usuario948@mail.com,Reunión mañana,492,28,0,0,1,1,0.7,3,1,0
+usuario949@mail.com,Recordatorio de cita,430,83,1,0,1,0,0.61,3,3,1
+usuario950@mail.com,Actualización de cuenta,322,67,1,1,1,0,0.92,4,0,1
+usuario951@mail.com,Recordatorio de cita,237,99,0,1,1,0,0.24,7,0,1
+usuario952@mail.com,Promoción exclusiva,87,32,0,0,0,1,0.5,9,0,0
+usuario953@mail.com,Factura pendiente,369,57,1,1,0,0,0.35,1,2,1
+usuario954@mail.com,Promoción exclusiva,99,74,0,0,1,0,0.25,4,0,1
+usuario955@mail.com,Aviso de seguridad,111,44,0,1,0,1,0.26,1,0,0
+usuario956@mail.com,Actualización de cuenta,213,92,1,0,0,1,0.83,10,2,1
+usuario957@mail.com,Reunión mañana,234,58,0,1,1,1,0.41,10,2,1
+usuario958@mail.com,Reunión mañana,171,31,1,0,0,1,0.75,1,3,0
+usuario959@mail.com,Información importante,395,84,0,1,0,1,0.24,10,2,1
+usuario960@mail.com,Novedades del mes,363,10,1,0,1,1,0.8,4,3,0
+usuario961@mail.com,Actualización de cuenta,385,27,1,1,1,0,0.81,1,0,0
+usuario962@mail.com,Promoción exclusiva,166,55,1,1,0,1,0.68,4,3,1
+usuario963@mail.com,Promoción exclusiva,185,59,0,1,1,1,0.38,1,1,1
+usuario964@mail.com,Actualización de cuenta,130,92,0,0,0,1,0.72,9,0,1
+usuario965@mail.com,Aviso de seguridad,439,11,1,0,1,0,0.54,10,3,0
+usuario966@mail.com,Actualización de cuenta,367,85,1,0,0,1,0.8,8,2,1
+usuario967@mail.com,Novedades del mes,452,20,1,1,1,1,0.39,3,1,0
+usuario968@mail.com,Promoción exclusiva,400,60,0,0,0,0,0.94,6,2,1
+usuario969@mail.com,Saludos cordiales,25,7,0,0,1,0,0.47,1,0,0
+usuario970@mail.com,Promoción exclusiva,142,61,0,1,0,0,0.11,6,3,1
+usuario971@mail.com,Información importante,396,60,1,0,0,1,0.72,9,1,1
+usuario972@mail.com,Factura pendiente,274,57,0,1,0,0,0.7,3,0,1
+usuario973@mail.com,Oferta especial,304,47,1,1,1,1,0.96,8,1,0
+usuario974@mail.com,Recordatorio de cita,37,8,1,0,0,1,0.21,5,2,0
+usuario975@mail.com,Información importante,337,21,1,1,0,1,0.7,7,0,0
+usuario976@mail.com,Oferta especial,365,100,1,1,1,0,0.41,1,0,1
+usuario977@mail.com,Actualización de cuenta,355,95,1,1,1,1,0.81,10,0,1
+usuario978@mail.com,Aviso de seguridad,169,45,0,1,0,1,0.65,5,0,0
+usuario979@mail.com,Reunión mañana,413,13,0,1,1,0,0.4,5,0,0
+usuario980@mail.com,Información importante,164,81,1,1,1,0,0.02,3,2,1
+usuario981@mail.com,Reunión mañana,232,22,1,0,0,0,0.88,9,1,0
+usuario982@mail.com,Reunión mañana,271,14,1,0,1,0,0.07,3,0,0
+usuario983@mail.com,Saludos cordiales,393,36,1,0,1,0,0.28,2,0,0
+usuario984@mail.com,Recordatorio de cita,214,36,1,0,1,0,0.88,10,3,0
+usuario985@mail.com,Recordatorio de cita,255,98,0,1,1,0,0.35,10,0,1
+usuario986@mail.com,Aviso de seguridad,457,52,0,0,1,1,0.27,5,3,1
+usuario987@mail.com,Aviso de seguridad,180,14,0,0,0,0,0.47,7,2,0
+usuario988@mail.com,Aviso de seguridad,439,7,1,0,1,1,0.45,3,3,0
+usuario989@mail.com,Reunión mañana,489,7,1,0,1,0,0.81,5,2,0
+usuario990@mail.com,Recordatorio de cita,264,6,0,0,1,1,0.45,7,1,0
+usuario991@mail.com,Reunión mañana,46,57,0,0,1,0,0.71,6,1,1
+usuario992@mail.com,Recordatorio de cita,299,48,0,1,0,0,0.17,0,1,0
+usuario993@mail.com,Actualización de cuenta,43,63,1,0,0,1,0.36,1,0,1
+usuario994@mail.com,Actualización de cuenta,340,45,0,0,1,0,0.74,4,2,0
+usuario995@mail.com,Aviso de seguridad,219,56,1,0,0,0,0.28,9,2,1
+usuario996@mail.com,Oferta especial,244,15,1,1,0,1,0.77,7,2,0
+usuario997@mail.com,Factura pendiente,277,66,1,1,0,1,0.93,0,1,1
+usuario998@mail.com,Recordatorio de cita,184,41,0,1,1,0,0.07,4,1,0
+usuario999@mail.com,Información importante,58,99,0,1,1,1,0.58,3,3,1
